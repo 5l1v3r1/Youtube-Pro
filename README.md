@@ -52,5 +52,7 @@
  
 > `python3 main.py`
 
+> `key ---> samay or sincryption`
+
 
  
